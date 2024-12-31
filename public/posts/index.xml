@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khóa học Java on nguyenquangtrai</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Khóa học Java on nguyenquangtrai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mẹo tự học JavaScript hiệu quả của tôi</title>
+      <link>http://localhost:1313/posts/bai3/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/bai3/</guid>
+      
+      <description>&lt;h2 id=&#34;mẹo-tự-học-javascript-hiệu-quả-của-tôi&#34;&gt;Mẹo tự học JavaScript hiệu quả của tôi&lt;/h2&gt;
+&lt;p&gt;Tự học JavaScript không dễ, nhưng tôi đã tìm ra cách để học hiệu quả hơn&amp;hellip;
+Mẹo của tôi:&lt;/p&gt;
+&lt;p&gt;Thực hành nhiều: Tôi không chỉ đọc lý thuyết mà còn viết code hàng ngày. Các bài tập nhỏ như thay đổi nội dung của một thẻ HTML bằng JavaScript giúp tôi hiểu hơn về cách DOM hoạt động.&lt;/p&gt;
+&lt;p&gt;Học qua dự án nhỏ:
+Tôi tạo một trang web đơn giản hiển thị thời gian hiện tại và thay đổi giao diện bằng JavaScript.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Làm thế nào tôi hiểu được lập trình hướng đối tượng trong Java</title>
+      <link>http://localhost:1313/posts/bai2/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/bai2/</guid>
+      
+      <description>&lt;h2 id=&#34;làm-thế-nào-tôi-hiểu-được-lập-trình-hướng-đối-tượng-trong-java&#34;&gt;Làm thế nào tôi hiểu được lập trình hướng đối tượng trong Java&lt;/h2&gt;
+&lt;p&gt;Khi bắt đầu học Java, tôi gặp khó khăn lớn nhất với khái niệm lập trình hướng đối tượng(Object-Oriented Programming – OOP). Các khái niệm như class, object, inheritance, và polymorphism nghe thật phức tạp.&lt;/p&gt;
+&lt;p&gt;Cách tôi vượt qua:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Hiểu qua ví dụ thực tế:
+Tôi tưởng tượng một class là bản thiết kế cho một chiếc xe hơi. Mỗi object là một chiếc xe được tạo ra từ bản thiết kế đó.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Hành trình bắt đầu học lập trình của một sinh viên</title>
+      <link>http://localhost:1313/posts/bai1/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/bai1/</guid>
+      
+      <description>&lt;h3 id=&#34;java-là-gì&#34;&gt;JAVA LÀ GÌ?&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Java là một ngôn ngữ lập trình có mục đích chung được thiết kế với một câu thần chú—“ viết một lần, chạy mọi nơi .”&lt;/li&gt;
+&lt;li&gt;Các ứng dụng Java được biên dịch thành mã byte có thể chạy trên các triển khai của Máy ảo Java (JVM).&lt;/li&gt;
+&lt;li&gt;JVM giúp thu hẹp khoảng cách giữa mã nguồn và các số 1 và 0 mà máy tính hiểu được. Bất kỳ máy nào đã cài đặt JVM đều có thể chạy Java.&lt;/li&gt;
+&lt;li&gt;Trong phát triển web, Java nổi bật nhất với tư cách là ngôn ngữ phía máy chủ và ngôn ngữ lập trình được lựa chọn cho các ứng dụng di động trên nền tảng Android.&lt;/li&gt;
+&lt;li&gt;Nó cũng vẫn có một sự hiện diện tốt trên giao diện người dùng dưới dạng một ứng dụng Java, mặc dù điều này không còn được ưa chuộng do những lo ngại về bảo mật.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;javascript-là-gì&#34;&gt;JAVASCRIPT LÀ GÌ?&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Bên cạnh HTML và CSS, JavaScript (được chuẩn hóa thành ECMAScript) được coi là một trong ba thành phần cốt lõi lớn của web.&lt;/li&gt;
+&lt;li&gt;Được sử dụng bởi phần lớn các trang web, JavaScript là ngôn ngữ kịch bản thường chạy trong trình duyệt và làm cho các trang web trở nên năng động và tương tác.&lt;/li&gt;
+&lt;li&gt;Ngày nay, JavaScript cũng đang phát triển nhanh chóng như một công nghệ phía máy chủ kể từ khi phát hành Node.js vào năm 2009.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;java-vs-javascript-những-tương-tự-chính&#34;&gt;JAVA VS. JAVASCRIPT: NHỮNG TƯƠNG TỰ CHÍNH&lt;/h3&gt;
+&lt;p&gt;Dù khác nhau nhưng có một số điểm tương đồng cấp cao nhất đáng để xem xét, đặc biệt nếu bạn đang xem xét phát triển web khi so sánh Java với JavaScript. Lập trình hướng đối tượng (OOP) . Cả hai ngôn ngữ đều yêu cầu nhà phát triển viết mã theo đối tượng và mối quan hệ của chúng với nhau. Nói rộng ra, điều này cho phép cả hai ngôn ngữ truy cập vào các kỹ thuật như kế thừa, đóng gói và đa hình. Phát triển Front-End . Cả hai ngôn ngữ đều có thể được sử dụng trong các khía cạnh phát triển front-end. JavaScript có thể được nhúng trực tiếp vào HTML, được triển khai dưới dạng khung hoặc thư viện; Java có thể được sử dụng như một Java applet. Phát triển Back-End. Cả hai ngôn ngữ đều có thể được sử dụng ở phía máy chủ. Java từ lâu đã được sử dụng để hỗ trợ các công nghệ back-end như Apache, JBoss và WebSphere. Node.js đã trở thành bệ phóng cho các máy chủ hỗ trợ JavaScript&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/bai4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/bai4/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

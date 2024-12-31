@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on nguyenquangtrai</title>
+    <link>http://localhost:59993/categories/</link>
+    <description>Recent content in Categories on nguyenquangtrai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59993/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:59993/categories/javascript/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:59993/categories/javascript/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://localhost:59993/categories/java/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:59993/categories/java/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chia Sẻ Kinh Nghiệm</title>
+      <link>http://localhost:59993/categories/chia-s%E1%BA%BB-kinh-nghi%E1%BB%87m/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:59993/categories/chia-s%E1%BA%BB-kinh-nghi%E1%BB%87m/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

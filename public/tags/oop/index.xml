@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OOP on nguyenquangtrai</title>
+    <link>http://localhost:59993/tags/oop/</link>
+    <description>Recent content in OOP on nguyenquangtrai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 22 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59993/tags/oop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Làm thế nào tôi hiểu được lập trình hướng đối tượng trong Java</title>
+      <link>http://localhost:59993/posts/bai2/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:59993/posts/bai2/</guid>
+      
+      <description>&lt;h2 id=&#34;làm-thế-nào-tôi-hiểu-được-lập-trình-hướng-đối-tượng-trong-java&#34;&gt;Làm thế nào tôi hiểu được lập trình hướng đối tượng trong Java&lt;/h2&gt;
+&lt;p&gt;Khi bắt đầu học Java, tôi gặp khó khăn lớn nhất với khái niệm lập trình hướng đối tượng(Object-Oriented Programming – OOP). Các khái niệm như class, object, inheritance, và polymorphism nghe thật phức tạp.&lt;/p&gt;
+&lt;p&gt;Cách tôi vượt qua:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Hiểu qua ví dụ thực tế:
+Tôi tưởng tượng một class là bản thiết kế cho một chiếc xe hơi. Mỗi object là một chiếc xe được tạo ra từ bản thiết kế đó.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

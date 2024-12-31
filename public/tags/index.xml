@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on nguyenquangtrai</title>
+    <link>http://localhost:59993/tags/</link>
+    <description>Recent content in Tags on nguyenquangtrai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59993/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:59993/tags/javascript/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:59993/tags/javascript/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:59993/tags/tips/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:59993/tags/tips/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tự Học</title>
+      <link>http://localhost:59993/tags/t%E1%BB%B1-h%E1%BB%8Dc/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:59993/tags/t%E1%BB%B1-h%E1%BB%8Dc/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hướng Đối Tượng</title>
+      <link>http://localhost:59993/tags/h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:59993/tags/h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://localhost:59993/tags/java/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:59993/tags/java/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OOP</title>
+      <link>http://localhost:59993/tags/oop/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:59993/tags/oop/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Học Lập Trình</title>
+      <link>http://localhost:59993/tags/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:59993/tags/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Core on nguyenquangtrai</title>
+    <link>http://localhost:1313/tags/core/</link>
+    <description>Recent content in Core on nguyenquangtrai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/core/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài 1: Giới thiệu về Java</title>
+      <link>http://localhost:1313/posts/01-java-introduction/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/01-java-introduction/</guid>
+      
+      <description>&lt;h2 id=&#34;giới-thiệu-về-java&#34;&gt;Giới thiệu về Java&lt;/h2&gt;
+&lt;p&gt;Java là một ngôn ngữ lập trình hướng đối tượng, được phát triển bởi Sun Microsystems&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;1-đặc-điểm-của-java&#34;&gt;1. Đặc điểm của Java&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hướng đối tượng&lt;/li&gt;
+&lt;li&gt;Độc lập nền tảng&lt;/li&gt;
+&lt;li&gt;Bảo mật cao.&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-cài-đặt-môi-trường&#34;&gt;2. Cài đặt môi trường&lt;/h3&gt;
+&lt;h4 id=&#34;21-cài-đặt-jdk&#34;&gt;2.1 Cài đặt JDK&lt;/h4&gt;
+&lt;p&gt;bash
+Hướng dẫn cài đặt&lt;/p&gt;
+&lt;h3 id=&#34;3-chương-trình-java-đầu-tiên&#34;&gt;3. Chương trình Java đầu tiên&lt;/h3&gt;
+&lt;p&gt;java
+public class HelloWorld {
+public static void main(String[] args) {
+System.out.println(&amp;ldquo;Hello, World!&amp;rdquo;);
+}
+}&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

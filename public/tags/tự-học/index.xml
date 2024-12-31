@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tự Học on nguyenquangtrai</title>
+    <link>http://localhost:59993/tags/t%E1%BB%B1-h%E1%BB%8Dc/</link>
+    <description>Recent content in Tự Học on nguyenquangtrai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59993/tags/t%E1%BB%B1-h%E1%BB%8Dc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mẹo tự học JavaScript hiệu quả của tôi</title>
+      <link>http://localhost:59993/posts/bai3/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:59993/posts/bai3/</guid>
+      
+      <description>&lt;h2 id=&#34;mẹo-tự-học-javascript-hiệu-quả-của-tôi&#34;&gt;Mẹo tự học JavaScript hiệu quả của tôi&lt;/h2&gt;
+&lt;p&gt;Tự học JavaScript không dễ, nhưng tôi đã tìm ra cách để học hiệu quả hơn&amp;hellip;
+Mẹo của tôi:&lt;/p&gt;
+&lt;p&gt;Thực hành nhiều: Tôi không chỉ đọc lý thuyết mà còn viết code hàng ngày. Các bài tập nhỏ như thay đổi nội dung của một thẻ HTML bằng JavaScript giúp tôi hiểu hơn về cách DOM hoạt động.&lt;/p&gt;
+&lt;p&gt;Học qua dự án nhỏ:
+Tôi tạo một trang web đơn giản hiển thị thời gian hiện tại và thay đổi giao diện bằng JavaScript.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+title = "nguyenquangtrai"
+baseURL = 'https://NguyenQuangTraiBlog/'
+languageCode = 'vi'
+defaultContentLanguage = "vi"
+enableEmoji = true
+ignoreErrors = ["additional-script-loading-error"]
+theme = "hugo-blog-awesome"
+
+[services]
+  [services.googleAnalytics]
+    id = ''
+  [services.disqus]
+    shortname = ''
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+
+[Languages.vi]
+  languageName = "Tiếng Việt"
+  languageCode = "vi"
+  contentDir = "content"
+  weight = 1
+
+  [Languages.vi.menu]
+  [[Languages.vi.menu.main]]
+    pageRef="/home/"
+    name = 'Trang chủ'
+    url = '/home/'
+    weight = 10
+  [[Languages.vi.menu.main]]
+    pageRef="posts"
+    name = 'Bài viết'
+    url = '/posts/'
+    weight = 20
+  [[Languages.vi.menu.main]]
+    pageRef="about"
+    name = 'Giới thiệu'
+    url = '/about/'
+    weight = 30
+
+[Languages.vi.params]
+  sitename = "Lập trình Java và JavaScript"
+  defaultColor = "dark"
+  description = "Blog cá nhân được xây dựng bằng Hugo"
+  mainSections = ['posts']
+  toc = true
+  tocOpen = false
+  goToTop = true
+  additionalScripts = ['js/custom.js', 'js/custom-2.js']
+  dateFormat = "02-01-2006"
+  rssFeedDescription = "summary"
+
+[Languages.vi.params.author]
+  avatar = "avatar.jpg" 
+  intro = "Lập trình Java và JavaScript"
+  name = "Tên của bạn"
+  description = "Mô tả ngắn về bạn hoặc blog của bạn"
+
+[Languages.vi.params.webmanifest]
+  name = "sitename"
+  short_name = "sitename"
+  start_url = "/"
+  theme_color = "#434648"
+  background_color = "#fff"
+  display = "standalone"
+
+[params.browserconfig]
+  TileColor = "#2d89ef"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/NguyenQuangTrai/"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"
+
+
+[build] 
+  writeStats = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"
